@@ -1,0 +1,1001 @@
+patient_id,cluster_type,sex,date_of_birth,province,state
+1,Sekolah,Laki-laki,2021-05-04,Gorontalo,selesai
+2,Sekolah,Laki-laki,2020-04-25,Papua Selatan,selesai
+9,Sekolah,Perempuan,2022-02-20,Jawa Timur,selesai
+14,Sekolah,Laki-laki,2020-10-19,Aceh,daftar
+22,Sekolah,Laki-laki,2018-01-24,Papua Selatan,selesai
+23,Sekolah,Perempuan,2021-04-23,Jambi,pelayanan
+25,Sekolah,Laki-laki,2023-11-23,Kalimantan Selatan,selesai
+27,Sekolah,Laki-laki,2017-10-07,Aceh,daftar
+32,Sekolah,Laki-laki,2022-07-08,Bengkulu,selesai
+35,Sekolah,Laki-laki,2023-09-19,Bengkulu,selesai
+36,Sekolah,Perempuan,2025-10-13,Kalimantan Timur,hadir
+37,Sekolah,Perempuan,2019-09-28,Maluku Utara,daftar
+40,Sekolah,Laki-laki,2025-09-11,Papua Barat,hadir
+41,Sekolah,Perempuan,2022-08-23,Kepulauan Bangka Belitung,hadir
+45,Sekolah,Perempuan,2005-12-03,Maluku Utara,daftar
+55,Sekolah,Laki-laki,2015-04-16,Papua Barat,selesai
+56,Sekolah,Perempuan,2019-01-27,Riau,pelayanan
+57,Sekolah,Perempuan,2016-09-10,Kalimantan Timur,daftar
+59,Sekolah,Laki-laki,2023-05-19,Kepulauan Bangka Belitung,selesai
+60,Sekolah,Laki-laki,2013-10-21,Banten,hadir
+64,Sekolah,Perempuan,2023-06-13,Papua Pegunungan,selesai
+66,Sekolah,Laki-laki,2023-11-18,Papua Tengah,pelayanan
+67,Sekolah,Laki-laki,2024-02-23,Daerah Istimewa Yogyakarta,pelayanan
+68,Sekolah,Laki-laki,2018-04-21,Sumatera Selatan,selesai
+71,Sekolah,Laki-laki,2024-06-02,Papua Barat Daya,hadir
+74,Sekolah,Laki-laki,2022-09-17,Gorontalo,daftar
+75,Sekolah,Perempuan,2021-09-22,Kepulauan Bangka Belitung,pelayanan
+78,Sekolah,Perempuan,2025-04-13,Sulawesi Utara,hadir
+80,Sekolah,Perempuan,2015-12-13,Sumatera Barat,pelayanan
+83,Sekolah,Laki-laki,2023-03-17,Papua Barat Daya,selesai
+84,Sekolah,Perempuan,2022-05-24,Kalimantan Barat,selesai
+86,Sekolah,Laki-laki,2025-08-31,Sumatera Selatan,selesai
+87,Sekolah,Laki-laki,2023-11-03,Papua Selatan,selesai
+88,Sekolah,Perempuan,2025-11-04,Sumatera Selatan,pelayanan
+91,Sekolah,Laki-laki,2014-08-15,Kepulauan Bangka Belitung,hadir
+93,Sekolah,Perempuan,2016-07-01,Sulawesi Selatan,selesai
+95,Sekolah,Laki-laki,2025-09-20,Papua Barat,daftar
+96,Sekolah,Perempuan,2023-11-26,Papua,pelayanan
+97,Sekolah,Perempuan,2018-11-18,Papua Barat,selesai
+98,Sekolah,Laki-laki,2023-02-25,Bali,pelayanan
+99,Sekolah,Perempuan,2013-09-16,Kalimantan Utara,hadir
+102,Sekolah,Perempuan,2015-09-21,DKI Jakarta,selesai
+103,Sekolah,Perempuan,2023-10-14,Nusa Tenggara Barat,selesai
+108,Sekolah,Laki-laki,2012-12-25,Kalimantan Timur,selesai
+109,Sekolah,Laki-laki,2021-12-20,Papua,pelayanan
+110,Sekolah,Perempuan,2023-06-09,Kalimantan Barat,hadir
+111,Sekolah,Laki-laki,2025-11-20,Kepulauan Riau,pelayanan
+112,Sekolah,Perempuan,2025-04-15,Nusa Tenggara Timur,hadir
+113,Sekolah,Laki-laki,2011-11-03,Papua Barat Daya,selesai
+115,Sekolah,Laki-laki,2009-01-19,Bengkulu,hadir
+117,Sekolah,Perempuan,2014-03-19,Sulawesi Selatan,selesai
+118,Sekolah,Laki-laki,2019-04-05,Maluku Utara,selesai
+119,Sekolah,Perempuan,2017-05-02,Sumatera Utara,hadir
+123,Sekolah,Perempuan,2023-12-05,Kalimantan Selatan,selesai
+124,Sekolah,Perempuan,2023-02-05,Kepulauan Bangka Belitung,selesai
+126,Sekolah,Laki-laki,2015-02-06,Kepulauan Bangka Belitung,selesai
+127,Sekolah,Perempuan,2023-08-05,Jawa Tengah,pelayanan
+131,Sekolah,Laki-laki,2010-10-04,Maluku,hadir
+132,Sekolah,Laki-laki,2022-04-28,Bali,hadir
+133,Sekolah,Perempuan,2024-04-29,Jawa Timur,pelayanan
+135,Sekolah,Perempuan,2011-10-23,Papua Barat,daftar
+139,Sekolah,Perempuan,2024-08-16,Kalimantan Selatan,selesai
+143,Sekolah,Laki-laki,2010-12-02,Maluku,pelayanan
+144,Sekolah,Perempuan,2023-10-01,Sulawesi Selatan,hadir
+146,Sekolah,Laki-laki,2024-07-18,Papua Pegunungan,pelayanan
+148,Sekolah,Perempuan,2024-10-06,Kepulauan Riau,daftar
+149,Sekolah,Perempuan,2025-03-19,Kepulauan Riau,pelayanan
+150,Sekolah,Laki-laki,2016-01-07,Riau,selesai
+152,Sekolah,Perempuan,2022-03-05,Sumatera Utara,selesai
+154,Sekolah,Perempuan,2008-06-16,Papua Barat,hadir
+156,Sekolah,Perempuan,2009-03-23,Gorontalo,daftar
+157,Sekolah,Perempuan,2023-05-17,Maluku Utara,pelayanan
+158,Sekolah,Laki-laki,2025-05-29,Bengkulu,hadir
+159,Sekolah,Perempuan,2023-08-22,Papua,selesai
+160,Sekolah,Perempuan,2025-02-13,Sumatera Utara,daftar
+161,Sekolah,Laki-laki,2019-04-05,Papua Pegunungan,selesai
+162,Sekolah,Perempuan,2025-07-28,Maluku Utara,selesai
+163,Sekolah,Laki-laki,2024-10-07,Bali,hadir
+165,Sekolah,Laki-laki,2024-11-09,Sulawesi Utara,selesai
+166,Sekolah,Perempuan,2008-05-23,Kepulauan Bangka Belitung,selesai
+169,Sekolah,Laki-laki,2014-10-01,Maluku Utara,hadir
+170,Sekolah,Perempuan,2022-01-18,Kepulauan Bangka Belitung,hadir
+175,Sekolah,Laki-laki,2020-02-08,Jawa Tengah,daftar
+178,Sekolah,Perempuan,2023-02-24,Papua Tengah,hadir
+179,Sekolah,Perempuan,2015-05-21,Sumatera Utara,hadir
+184,Sekolah,Perempuan,2023-01-16,Kalimantan Timur,selesai
+186,Sekolah,Laki-laki,2024-10-15,Kepulauan Riau,selesai
+188,Sekolah,Laki-laki,2024-01-28,Bengkulu,pelayanan
+189,Sekolah,Laki-laki,2009-03-31,Kalimantan Utara,hadir
+190,Sekolah,Laki-laki,2018-11-27,Riau,selesai
+191,Sekolah,Laki-laki,2023-12-28,Papua Barat Daya,pelayanan
+192,Sekolah,Laki-laki,2024-02-29,Jawa Timur,hadir
+197,Sekolah,Laki-laki,2012-12-01,Papua Barat Daya,hadir
+198,Sekolah,Perempuan,2008-08-04,Bali,selesai
+200,Sekolah,Laki-laki,2018-05-04,Daerah Istimewa Yogyakarta,selesai
+203,Sekolah,Laki-laki,2021-10-13,Sulawesi Tengah,selesai
+207,Sekolah,Laki-laki,2020-06-11,Papua Pegunungan,selesai
+208,Sekolah,Laki-laki,2025-10-27,Kepulauan Bangka Belitung,selesai
+211,Sekolah,Perempuan,2020-05-12,Sumatera Barat,pelayanan
+212,Sekolah,Perempuan,2018-09-13,Sulawesi Tenggara,selesai
+218,Sekolah,Laki-laki,2025-10-29,Jawa Tengah,selesai
+219,Sekolah,Perempuan,2017-04-12,Sumatera Utara,selesai
+222,Sekolah,Laki-laki,2025-11-05,Jawa Timur,selesai
+223,Sekolah,Perempuan,2021-08-15,Sulawesi Utara,selesai
+226,Sekolah,Perempuan,2011-03-22,Kepulauan Bangka Belitung,selesai
+231,Sekolah,Laki-laki,2011-11-04,Maluku Utara,hadir
+232,Sekolah,Perempuan,2024-10-09,Bali,hadir
+234,Sekolah,Perempuan,2024-12-11,Sumatera Barat,pelayanan
+235,Sekolah,Laki-laki,2015-05-30,Papua Barat Daya,selesai
+237,Sekolah,Perempuan,2012-02-16,Sulawesi Tenggara,daftar
+240,Sekolah,Laki-laki,2023-10-08,Papua Tengah,selesai
+242,Sekolah,Laki-laki,2017-11-10,Bengkulu,daftar
+244,Sekolah,Perempuan,2018-11-14,Kalimantan Utara,selesai
+245,Sekolah,Perempuan,2022-07-20,Jambi,daftar
+246,Sekolah,Perempuan,2021-01-18,Jawa Timur,selesai
+248,Sekolah,Laki-laki,2022-12-04,Gorontalo,daftar
+249,Sekolah,Perempuan,2013-12-26,Kalimantan Selatan,pelayanan
+250,Sekolah,Perempuan,2018-08-03,Nusa Tenggara Barat,selesai
+251,Sekolah,Perempuan,2017-12-17,Gorontalo,selesai
+254,Sekolah,Laki-laki,2020-10-23,Bali,daftar
+255,Sekolah,Perempuan,2017-05-17,Bali,pelayanan
+258,Sekolah,Laki-laki,2017-09-25,Papua Pegunungan,selesai
+260,Sekolah,Perempuan,2023-01-04,Kepulauan Riau,hadir
+263,Sekolah,Laki-laki,2024-05-15,Papua,selesai
+266,Sekolah,Perempuan,2022-01-03,Jawa Barat,hadir
+269,Sekolah,Laki-laki,2025-02-24,Kalimantan Utara,selesai
+270,Sekolah,Perempuan,2022-01-23,Kalimantan Selatan,pelayanan
+271,Sekolah,Perempuan,2022-07-10,Gorontalo,pelayanan
+272,Sekolah,Laki-laki,2025-06-13,Sumatera Barat,hadir
+274,Sekolah,Laki-laki,2019-03-04,Kepulauan Riau,daftar
+275,Sekolah,Laki-laki,2025-08-26,Papua Pegunungan,hadir
+277,Sekolah,Perempuan,2020-05-19,Papua Pegunungan,hadir
+278,Sekolah,Perempuan,2021-01-18,Nusa Tenggara Barat,daftar
+280,Sekolah,Laki-laki,2021-01-25,Kalimantan Utara,pelayanan
+283,Sekolah,Laki-laki,2019-10-24,Maluku Utara,selesai
+286,Sekolah,Perempuan,2015-11-26,Jambi,selesai
+287,Sekolah,Laki-laki,2024-05-07,Maluku Utara,selesai
+290,Sekolah,Perempuan,2024-12-13,Sulawesi Tenggara,pelayanan
+291,Sekolah,Laki-laki,2020-06-22,Kalimantan Utara,daftar
+292,Sekolah,Perempuan,2022-11-17,Kepulauan Bangka Belitung,pelayanan
+294,Sekolah,Laki-laki,2015-12-12,Riau,daftar
+296,Sekolah,Laki-laki,2009-03-24,Sumatera Barat,daftar
+297,Sekolah,Perempuan,2025-09-19,Papua Pegunungan,hadir
+299,Sekolah,Perempuan,2013-04-07,Lampung,pelayanan
+303,Sekolah,Laki-laki,2015-05-12,Papua Barat Daya,daftar
+304,Sekolah,Laki-laki,2016-05-03,Bengkulu,selesai
+309,Sekolah,Laki-laki,2012-11-15,Maluku,selesai
+310,Sekolah,Laki-laki,2018-05-26,Maluku Utara,daftar
+311,Sekolah,Perempuan,2012-12-25,Banten,pelayanan
+313,Sekolah,Perempuan,2021-11-12,Riau,selesai
+314,Sekolah,Laki-laki,2019-04-27,DKI Jakarta,selesai
+315,Sekolah,Perempuan,2021-10-05,Gorontalo,daftar
+316,Sekolah,Perempuan,2009-03-16,Sumatera Utara,daftar
+317,Sekolah,Perempuan,2021-02-21,Nusa Tenggara Barat,pelayanan
+318,Sekolah,Laki-laki,2025-04-18,Bengkulu,selesai
+320,Sekolah,Laki-laki,2025-04-14,Maluku Utara,selesai
+322,Sekolah,Laki-laki,2025-08-15,Gorontalo,daftar
+325,Sekolah,Laki-laki,2022-02-14,Papua Barat,hadir
+326,Sekolah,Laki-laki,2022-10-09,Sumatera Utara,selesai
+327,Sekolah,Laki-laki,2022-02-11,Bengkulu,hadir
+332,Sekolah,Laki-laki,2019-09-22,Papua Tengah,selesai
+334,Sekolah,Laki-laki,2023-03-19,Papua,hadir
+335,Sekolah,Perempuan,2011-08-12,Papua Barat,daftar
+336,Sekolah,Perempuan,2015-10-13,Kepulauan Riau,hadir
+340,Sekolah,Laki-laki,2016-12-29,Papua,pelayanan
+343,Sekolah,Perempuan,2025-08-28,Papua,hadir
+344,Sekolah,Laki-laki,2025-09-19,Bengkulu,selesai
+345,Sekolah,Laki-laki,2013-10-26,Nusa Tenggara Barat,pelayanan
+348,Sekolah,Laki-laki,2024-05-25,Kalimantan Selatan,selesai
+349,Sekolah,Perempuan,2023-08-11,Kalimantan Timur,selesai
+353,Sekolah,Perempuan,2010-11-19,Sulawesi Utara,pelayanan
+356,Sekolah,Laki-laki,2016-09-26,Maluku Utara,hadir
+357,Sekolah,Laki-laki,2023-01-26,Sumatera Selatan,selesai
+363,Sekolah,Laki-laki,2023-09-04,Nusa Tenggara Barat,daftar
+364,Sekolah,Perempuan,2017-06-03,Sulawesi Tengah,pelayanan
+365,Sekolah,Perempuan,2023-10-30,Daerah Istimewa Yogyakarta,pelayanan
+366,Sekolah,Perempuan,2014-05-04,Kepulauan Riau,selesai
+367,Sekolah,Perempuan,2022-08-03,Kepulauan Bangka Belitung,daftar
+370,Sekolah,Laki-laki,2024-06-27,Kalimantan Selatan,daftar
+371,Sekolah,Laki-laki,2022-10-22,Jawa Tengah,daftar
+372,Sekolah,Perempuan,2021-03-10,Sulawesi Utara,selesai
+373,Sekolah,Laki-laki,2017-08-26,Daerah Istimewa Yogyakarta,selesai
+374,Sekolah,Perempuan,2024-03-01,Kalimantan Selatan,selesai
+375,Sekolah,Laki-laki,2020-03-29,Kalimantan Tengah,daftar
+379,Sekolah,Laki-laki,2010-07-14,Kepulauan Bangka Belitung,selesai
+380,Sekolah,Laki-laki,2018-11-05,Kepulauan Bangka Belitung,pelayanan
+382,Sekolah,Laki-laki,2018-02-20,Nusa Tenggara Timur,daftar
+383,Sekolah,Laki-laki,2013-03-18,Sumatera Barat,daftar
+384,Sekolah,Perempuan,2025-09-12,Sulawesi Utara,pelayanan
+387,Sekolah,Perempuan,2018-06-01,Kepulauan Riau,selesai
+388,Sekolah,Perempuan,2010-07-31,Sumatera Barat,daftar
+393,Sekolah,Perempuan,2011-08-31,Kalimantan Barat,selesai
+397,Sekolah,Perempuan,2025-08-14,Bali,hadir
+399,Sekolah,Laki-laki,2024-01-16,Maluku,daftar
+400,Sekolah,Perempuan,2024-12-21,Kalimantan Utara,hadir
+401,Sekolah,Laki-laki,2017-11-26,Maluku Utara,selesai
+402,Sekolah,Laki-laki,2018-11-01,Sulawesi Barat,selesai
+403,Sekolah,Laki-laki,2020-12-01,Sulawesi Barat,selesai
+404,Sekolah,Laki-laki,2023-11-26,Nusa Tenggara Barat,selesai
+406,Sekolah,Laki-laki,2022-11-11,Gorontalo,selesai
+407,Sekolah,Perempuan,2025-02-27,Jambi,daftar
+409,Sekolah,Laki-laki,2018-07-28,Bali,pelayanan
+410,Sekolah,Laki-laki,2021-05-07,Sulawesi Barat,hadir
+411,Sekolah,Perempuan,2006-06-06,Gorontalo,pelayanan
+414,Sekolah,Laki-laki,2014-08-01,Sulawesi Tenggara,selesai
+415,Sekolah,Perempuan,2023-07-10,Kalimantan Utara,hadir
+416,Sekolah,Laki-laki,2017-02-24,Sulawesi Selatan,hadir
+419,Sekolah,Laki-laki,2023-04-02,Kalimantan Timur,selesai
+420,Sekolah,Perempuan,2025-09-21,Papua,daftar
+421,Sekolah,Laki-laki,2025-07-21,Jambi,pelayanan
+422,Sekolah,Laki-laki,2025-11-08,Sumatera Barat,daftar
+425,Sekolah,Perempuan,2025-02-27,Nusa Tenggara Timur,hadir
+426,Sekolah,Perempuan,2022-08-26,Jawa Timur,pelayanan
+428,Sekolah,Laki-laki,2025-05-02,Jawa Barat,selesai
+429,Sekolah,Perempuan,2022-07-25,Papua Pegunungan,daftar
+430,Sekolah,Laki-laki,2023-08-09,Kalimantan Timur,hadir
+432,Sekolah,Laki-laki,2019-01-15,Bengkulu,selesai
+434,Sekolah,Laki-laki,2021-05-07,Kepulauan Bangka Belitung,selesai
+435,Sekolah,Laki-laki,2023-07-14,Riau,selesai
+441,Sekolah,Perempuan,2008-12-03,DKI Jakarta,daftar
+443,Sekolah,Laki-laki,2023-01-30,Kalimantan Selatan,pelayanan
+444,Sekolah,Perempuan,2021-12-12,Riau,selesai
+445,Sekolah,Laki-laki,2024-11-05,Sumatera Utara,selesai
+446,Sekolah,Laki-laki,2024-12-06,Papua Tengah,selesai
+448,Sekolah,Laki-laki,2021-01-15,Maluku,daftar
+451,Sekolah,Perempuan,2022-03-08,Nusa Tenggara Barat,hadir
+452,Sekolah,Perempuan,2025-03-04,Kalimantan Timur,daftar
+459,Sekolah,Perempuan,2025-08-10,Kepulauan Bangka Belitung,pelayanan
+461,Sekolah,Perempuan,2025-06-26,Kepulauan Riau,pelayanan
+462,Sekolah,Laki-laki,2015-04-21,Kepulauan Riau,daftar
+463,Sekolah,Perempuan,2019-03-08,Jambi,pelayanan
+465,Sekolah,Perempuan,2020-02-26,Riau,selesai
+467,Sekolah,Laki-laki,2017-10-21,Riau,selesai
+468,Sekolah,Laki-laki,2025-09-22,Kalimantan Selatan,pelayanan
+469,Sekolah,Laki-laki,2024-01-26,Sulawesi Selatan,daftar
+470,Sekolah,Laki-laki,2025-10-27,Kalimantan Timur,pelayanan
+471,Sekolah,Laki-laki,2022-05-08,Sulawesi Tenggara,daftar
+472,Sekolah,Laki-laki,2024-02-14,Maluku,pelayanan
+474,Sekolah,Perempuan,2025-07-26,Riau,selesai
+476,Sekolah,Laki-laki,2025-10-21,Sulawesi Utara,selesai
+477,Sekolah,Laki-laki,2016-11-17,Papua,daftar
+478,Sekolah,Laki-laki,2023-05-04,Sumatera Utara,selesai
+481,Sekolah,Perempuan,2023-01-20,Lampung,daftar
+484,Sekolah,Laki-laki,2020-12-01,Papua Barat,selesai
+487,Sekolah,Perempuan,2019-08-21,DKI Jakarta,daftar
+489,Sekolah,Perempuan,2018-09-22,Sulawesi Barat,daftar
+492,Sekolah,Perempuan,2025-07-19,Banten,selesai
+494,Sekolah,Perempuan,2019-01-10,Kalimantan Utara,pelayanan
+497,Sekolah,Perempuan,2024-05-31,Sumatera Barat,pelayanan
+498,Sekolah,Laki-laki,2014-03-19,Riau,selesai
+500,Sekolah,Perempuan,2024-11-25,Kalimantan Timur,hadir
+503,Sekolah,Perempuan,2025-06-01,Papua Selatan,daftar
+505,Sekolah,Laki-laki,2020-06-23,Banten,pelayanan
+506,Sekolah,Laki-laki,2009-10-24,Gorontalo,selesai
+507,Sekolah,Perempuan,2016-04-05,Bengkulu,pelayanan
+508,Sekolah,Laki-laki,2008-03-01,Papua Barat,daftar
+511,Sekolah,Laki-laki,2022-07-08,Aceh,daftar
+513,Sekolah,Perempuan,2023-04-29,Jambi,daftar
+514,Sekolah,Perempuan,2020-06-24,Kalimantan Selatan,hadir
+516,Sekolah,Perempuan,2015-04-18,Jambi,pelayanan
+517,Sekolah,Perempuan,2025-11-15,Jawa Tengah,hadir
+518,Sekolah,Laki-laki,2014-07-19,Sulawesi Barat,daftar
+519,Sekolah,Perempuan,2024-01-06,Kalimantan Timur,selesai
+520,Sekolah,Perempuan,2016-01-01,Sulawesi Tenggara,pelayanan
+522,Sekolah,Perempuan,2023-09-22,Maluku Utara,selesai
+523,Sekolah,Laki-laki,2025-07-28,Jambi,hadir
+524,Sekolah,Laki-laki,2024-04-25,DKI Jakarta,pelayanan
+526,Sekolah,Perempuan,2025-09-10,Daerah Istimewa Yogyakarta,daftar
+527,Sekolah,Laki-laki,2020-09-30,Kalimantan Timur,selesai
+528,Sekolah,Laki-laki,2025-07-24,Sulawesi Selatan,pelayanan
+535,Sekolah,Laki-laki,2016-04-13,Kalimantan Selatan,selesai
+537,Sekolah,Laki-laki,2025-10-28,Riau,selesai
+538,Sekolah,Laki-laki,2025-06-04,Papua Tengah,selesai
+539,Sekolah,Laki-laki,2025-07-19,Daerah Istimewa Yogyakarta,daftar
+541,Sekolah,Laki-laki,2009-05-24,Sulawesi Utara,selesai
+544,Sekolah,Laki-laki,2014-03-18,Kepulauan Riau,pelayanan
+545,Sekolah,Laki-laki,2025-05-04,Kepulauan Bangka Belitung,selesai
+546,Sekolah,Perempuan,2019-08-30,Kepulauan Bangka Belitung,pelayanan
+547,Sekolah,Laki-laki,2022-07-10,Kalimantan Selatan,selesai
+550,Sekolah,Laki-laki,2016-01-30,Kalimantan Tengah,hadir
+551,Sekolah,Perempuan,2024-04-17,Papua,selesai
+552,Sekolah,Perempuan,2018-12-16,Lampung,hadir
+556,Sekolah,Perempuan,2024-09-12,Kalimantan Barat,pelayanan
+560,Sekolah,Perempuan,2020-07-05,Jambi,daftar
+562,Sekolah,Perempuan,2025-11-02,Papua Pegunungan,daftar
+564,Sekolah,Perempuan,2025-10-19,Kepulauan Bangka Belitung,hadir
+565,Sekolah,Laki-laki,2019-05-09,Sumatera Selatan,selesai
+568,Sekolah,Laki-laki,2015-12-17,Aceh,daftar
+569,Sekolah,Laki-laki,2014-12-12,Sulawesi Utara,selesai
+570,Sekolah,Perempuan,2019-08-22,Sumatera Utara,daftar
+571,Sekolah,Perempuan,2021-01-24,Kalimantan Utara,pelayanan
+573,Sekolah,Perempuan,2018-02-21,Sumatera Barat,pelayanan
+574,Sekolah,Laki-laki,2023-10-10,Papua Selatan,pelayanan
+575,Sekolah,Perempuan,2023-07-29,Sulawesi Utara,pelayanan
+576,Sekolah,Perempuan,2024-09-26,Papua Selatan,pelayanan
+580,Sekolah,Perempuan,2025-09-27,Nusa Tenggara Timur,daftar
+585,Sekolah,Perempuan,2025-11-18,Sumatera Utara,hadir
+586,Sekolah,Laki-laki,2012-06-29,Jawa Timur,selesai
+587,Sekolah,Laki-laki,2024-01-17,Bali,daftar
+588,Sekolah,Laki-laki,2023-05-11,Riau,selesai
+590,Sekolah,Perempuan,2018-07-08,Maluku Utara,daftar
+591,Sekolah,Laki-laki,2021-11-26,Bengkulu,pelayanan
+592,Sekolah,Laki-laki,2025-01-31,Bali,pelayanan
+593,Sekolah,Laki-laki,2022-07-06,DKI Jakarta,pelayanan
+595,Sekolah,Perempuan,2014-07-22,DKI Jakarta,daftar
+596,Sekolah,Laki-laki,2020-10-20,Papua Pegunungan,selesai
+597,Sekolah,Perempuan,2025-08-29,Maluku,pelayanan
+601,Sekolah,Perempuan,2013-02-12,Papua Barat,selesai
+602,Sekolah,Perempuan,2025-09-26,Jawa Tengah,pelayanan
+603,Sekolah,Perempuan,2025-11-20,Riau,daftar
+604,Sekolah,Perempuan,2024-10-19,Kalimantan Tengah,selesai
+605,Sekolah,Perempuan,2017-11-07,Bali,selesai
+606,Sekolah,Perempuan,2025-06-28,Jambi,pelayanan
+608,Sekolah,Perempuan,2007-04-12,Nusa Tenggara Barat,selesai
+609,Sekolah,Laki-laki,2022-11-14,Maluku,hadir
+610,Sekolah,Perempuan,2018-06-11,Kalimantan Utara,daftar
+611,Sekolah,Laki-laki,2017-09-06,Jawa Barat,hadir
+612,Sekolah,Perempuan,2023-08-24,Maluku,selesai
+613,Sekolah,Perempuan,2025-03-01,Bali,pelayanan
+614,Sekolah,Laki-laki,2023-06-16,Papua Barat,selesai
+618,Sekolah,Laki-laki,2019-03-29,Sumatera Barat,daftar
+619,Sekolah,Perempuan,2024-10-06,Jambi,pelayanan
+621,Sekolah,Perempuan,2015-10-09,Aceh,hadir
+622,Sekolah,Laki-laki,2021-02-08,Sulawesi Barat,daftar
+623,Sekolah,Perempuan,2018-07-25,Sulawesi Selatan,selesai
+629,Sekolah,Laki-laki,2014-10-28,Kepulauan Bangka Belitung,selesai
+630,Sekolah,Perempuan,2018-11-03,Papua Selatan,daftar
+632,Sekolah,Laki-laki,2023-10-06,DKI Jakarta,hadir
+633,Sekolah,Laki-laki,2005-11-02,Bali,selesai
+634,Sekolah,Perempuan,2021-04-04,Kalimantan Utara,selesai
+635,Sekolah,Laki-laki,2024-06-22,Maluku Utara,selesai
+636,Sekolah,Laki-laki,2021-01-30,Jawa Timur,selesai
+640,Sekolah,Perempuan,2009-10-13,Kepulauan Riau,daftar
+641,Sekolah,Perempuan,2018-10-26,Sulawesi Selatan,daftar
+644,Sekolah,Perempuan,2018-10-05,Kalimantan Barat,selesai
+645,Sekolah,Perempuan,2022-09-24,Lampung,daftar
+646,Sekolah,Laki-laki,2020-07-09,Jawa Timur,daftar
+647,Sekolah,Laki-laki,2025-10-13,Aceh,selesai
+648,Sekolah,Perempuan,2024-05-25,Sumatera Selatan,hadir
+649,Sekolah,Perempuan,2025-03-17,Gorontalo,selesai
+656,Sekolah,Laki-laki,2020-05-29,Bengkulu,pelayanan
+658,Sekolah,Laki-laki,2008-08-30,Jawa Barat,daftar
+660,Sekolah,Laki-laki,2025-05-21,Kalimantan Tengah,hadir
+664,Sekolah,Laki-laki,2023-12-20,Sulawesi Utara,selesai
+673,Sekolah,Laki-laki,2020-05-30,Maluku Utara,pelayanan
+674,Sekolah,Perempuan,2025-09-02,Papua Pegunungan,selesai
+678,Sekolah,Laki-laki,2024-09-22,Nusa Tenggara Barat,daftar
+681,Sekolah,Perempuan,2016-09-10,Maluku Utara,selesai
+682,Sekolah,Perempuan,2023-12-06,Kalimantan Tengah,hadir
+683,Sekolah,Laki-laki,2024-09-09,Papua Tengah,daftar
+684,Sekolah,Perempuan,2020-07-04,Papua,pelayanan
+686,Sekolah,Perempuan,2019-12-09,Kepulauan Riau,pelayanan
+687,Sekolah,Laki-laki,2019-11-18,Papua Barat Daya,hadir
+688,Sekolah,Laki-laki,2019-05-04,Kalimantan Timur,hadir
+689,Sekolah,Laki-laki,2025-09-23,Papua Barat Daya,pelayanan
+690,Sekolah,Perempuan,2025-01-21,Sumatera Barat,selesai
+692,Sekolah,Perempuan,2020-08-27,Jambi,pelayanan
+696,Sekolah,Perempuan,2025-08-13,Banten,pelayanan
+697,Sekolah,Perempuan,2014-06-19,Papua,hadir
+699,Sekolah,Perempuan,2025-08-06,Sumatera Utara,daftar
+701,Sekolah,Perempuan,2022-03-06,Bengkulu,selesai
+702,Sekolah,Laki-laki,2024-06-08,Kepulauan Bangka Belitung,selesai
+704,Sekolah,Perempuan,2024-10-06,Gorontalo,selesai
+705,Sekolah,Perempuan,2024-08-23,Sumatera Selatan,selesai
+708,Sekolah,Perempuan,2021-01-24,Jawa Tengah,pelayanan
+710,Sekolah,Laki-laki,2021-09-04,Daerah Istimewa Yogyakarta,selesai
+712,Sekolah,Laki-laki,2008-11-03,Kalimantan Utara,selesai
+714,Sekolah,Laki-laki,2011-06-17,Kepulauan Riau,daftar
+715,Sekolah,Laki-laki,2010-12-04,Riau,daftar
+716,Sekolah,Perempuan,2025-04-15,Sulawesi Tengah,daftar
+717,Sekolah,Perempuan,2024-11-11,Nusa Tenggara Timur,pelayanan
+718,Sekolah,Laki-laki,2025-08-29,Kalimantan Barat,daftar
+720,Sekolah,Laki-laki,2020-06-11,Sulawesi Tenggara,daftar
+721,Sekolah,Perempuan,2024-08-27,Gorontalo,pelayanan
+723,Sekolah,Perempuan,2022-09-14,Papua,selesai
+727,Sekolah,Perempuan,2022-12-09,Jawa Timur,selesai
+728,Sekolah,Perempuan,2025-11-14,Nusa Tenggara Barat,hadir
+730,Sekolah,Perempuan,2025-09-21,Lampung,daftar
+731,Sekolah,Perempuan,2022-07-16,Daerah Istimewa Yogyakarta,selesai
+736,Sekolah,Laki-laki,2012-07-17,Papua Tengah,daftar
+740,Sekolah,Perempuan,2024-07-15,Maluku,hadir
+742,Sekolah,Perempuan,2024-12-29,Maluku Utara,hadir
+743,Sekolah,Perempuan,2022-07-31,Jambi,hadir
+744,Sekolah,Perempuan,2018-12-03,Lampung,daftar
+747,Sekolah,Perempuan,2017-09-27,Lampung,daftar
+750,Sekolah,Laki-laki,2007-07-27,Papua Selatan,daftar
+751,Sekolah,Perempuan,2009-04-01,Jambi,pelayanan
+752,Sekolah,Laki-laki,2025-05-16,Jawa Timur,daftar
+753,Sekolah,Perempuan,2013-04-22,Bali,daftar
+756,Sekolah,Laki-laki,2025-10-07,Kalimantan Timur,selesai
+758,Sekolah,Laki-laki,2024-08-22,Kalimantan Barat,daftar
+761,Sekolah,Perempuan,2021-10-09,Kepulauan Riau,pelayanan
+764,Sekolah,Laki-laki,2021-01-10,Sulawesi Utara,hadir
+765,Sekolah,Perempuan,2016-05-31,Papua,selesai
+766,Sekolah,Laki-laki,2007-03-10,Papua Barat,selesai
+767,Sekolah,Perempuan,2024-12-29,Nusa Tenggara Timur,pelayanan
+769,Sekolah,Perempuan,2021-10-05,Lampung,selesai
+770,Sekolah,Laki-laki,2025-04-14,Bengkulu,pelayanan
+773,Sekolah,Perempuan,2022-11-09,Lampung,pelayanan
+774,Sekolah,Perempuan,2025-11-06,Sulawesi Utara,hadir
+775,Sekolah,Laki-laki,2012-04-12,Kepulauan Riau,hadir
+778,Sekolah,Perempuan,2013-12-08,Banten,hadir
+779,Sekolah,Perempuan,2014-06-05,Nusa Tenggara Barat,selesai
+781,Sekolah,Perempuan,2024-04-02,Papua Tengah,selesai
+784,Sekolah,Perempuan,2025-08-01,Jawa Timur,daftar
+786,Sekolah,Laki-laki,2016-04-30,Kepulauan Bangka Belitung,hadir
+787,Sekolah,Perempuan,2025-07-29,Kepulauan Bangka Belitung,pelayanan
+788,Sekolah,Perempuan,2021-11-17,Kalimantan Utara,selesai
+790,Sekolah,Laki-laki,2025-11-17,Papua Tengah,pelayanan
+791,Sekolah,Perempuan,2023-05-02,Jambi,hadir
+792,Sekolah,Perempuan,2020-01-11,Papua,daftar
+793,Sekolah,Perempuan,2018-03-05,Bali,pelayanan
+794,Sekolah,Laki-laki,2022-12-21,Jawa Timur,pelayanan
+796,Sekolah,Perempuan,2017-03-14,Sumatera Utara,daftar
+797,Sekolah,Perempuan,2024-06-20,Papua,daftar
+798,Sekolah,Perempuan,2011-04-19,Jambi,daftar
+801,Sekolah,Laki-laki,2012-10-02,Banten,daftar
+802,Sekolah,Perempuan,2023-11-21,Kalimantan Timur,pelayanan
+804,Sekolah,Laki-laki,2021-11-29,Papua Barat,daftar
+805,Sekolah,Laki-laki,2017-12-28,Maluku Utara,selesai
+807,Sekolah,Laki-laki,2024-07-14,Nusa Tenggara Timur,daftar
+808,Sekolah,Perempuan,2019-11-29,Kepulauan Riau,daftar
+809,Sekolah,Laki-laki,2006-07-13,Papua Selatan,daftar
+810,Sekolah,Perempuan,2017-11-14,Sulawesi Utara,selesai
+819,Sekolah,Perempuan,2017-03-29,Aceh,selesai
+822,Sekolah,Laki-laki,2025-11-17,Sulawesi Tengah,selesai
+824,Sekolah,Laki-laki,2018-10-23,Sulawesi Utara,pelayanan
+825,Sekolah,Laki-laki,2024-06-27,Daerah Istimewa Yogyakarta,pelayanan
+827,Sekolah,Laki-laki,2012-12-04,Bali,daftar
+829,Sekolah,Laki-laki,2023-05-29,Maluku Utara,selesai
+834,Sekolah,Laki-laki,2024-09-15,Sulawesi Utara,selesai
+835,Sekolah,Laki-laki,2024-02-19,Papua Pegunungan,daftar
+838,Sekolah,Laki-laki,2025-04-05,Kalimantan Tengah,hadir
+840,Sekolah,Laki-laki,2023-02-10,Kalimantan Tengah,daftar
+845,Sekolah,Perempuan,2020-06-06,Jawa Barat,pelayanan
+846,Sekolah,Perempuan,2025-02-01,Papua,hadir
+848,Sekolah,Laki-laki,2025-08-09,Papua,selesai
+850,Sekolah,Laki-laki,2022-07-16,Kalimantan Barat,daftar
+855,Sekolah,Laki-laki,2019-05-04,Papua,daftar
+859,Sekolah,Laki-laki,2014-05-13,Aceh,daftar
+860,Sekolah,Laki-laki,2024-05-08,Sumatera Utara,selesai
+861,Sekolah,Laki-laki,2025-05-24,Sumatera Barat,daftar
+862,Sekolah,Laki-laki,2025-10-05,Nusa Tenggara Timur,daftar
+863,Sekolah,Perempuan,2024-11-27,Bengkulu,selesai
+865,Sekolah,Perempuan,2024-05-08,Daerah Istimewa Yogyakarta,selesai
+867,Sekolah,Laki-laki,2017-06-14,Papua Tengah,selesai
+869,Sekolah,Perempuan,2018-10-25,Sumatera Utara,selesai
+871,Sekolah,Laki-laki,2023-10-04,Sulawesi Tenggara,selesai
+874,Sekolah,Perempuan,2012-04-16,Nusa Tenggara Barat,selesai
+875,Sekolah,Perempuan,2016-01-24,Papua Barat,pelayanan
+878,Sekolah,Laki-laki,2024-02-25,Sumatera Selatan,pelayanan
+883,Sekolah,Perempuan,2014-04-20,Sumatera Utara,hadir
+887,Sekolah,Perempuan,2024-11-10,Papua Pegunungan,hadir
+890,Sekolah,Laki-laki,2022-09-17,Papua Pegunungan,pelayanan
+891,Sekolah,Laki-laki,2009-08-07,Papua Tengah,pelayanan
+892,Sekolah,Perempuan,2022-01-25,Nusa Tenggara Timur,selesai
+894,Sekolah,Laki-laki,2013-07-27,DKI Jakarta,hadir
+898,Sekolah,Perempuan,2016-10-21,Aceh,pelayanan
+899,Sekolah,Laki-laki,2021-04-27,Sulawesi Barat,hadir
+902,Sekolah,Perempuan,2014-12-26,Papua Barat Daya,pelayanan
+904,Sekolah,Laki-laki,2018-01-06,DKI Jakarta,pelayanan
+905,Sekolah,Perempuan,2025-07-06,Jawa Timur,selesai
+908,Sekolah,Perempuan,2016-07-30,Jawa Tengah,pelayanan
+909,Sekolah,Laki-laki,2023-08-24,Kepulauan Riau,selesai
+911,Sekolah,Laki-laki,2025-04-01,Banten,selesai
+912,Sekolah,Laki-laki,2012-02-05,Jawa Barat,selesai
+914,Sekolah,Perempuan,2024-01-31,Bali,selesai
+915,Sekolah,Perempuan,2011-07-04,Jawa Timur,selesai
+916,Sekolah,Perempuan,2020-02-12,Papua Barat Daya,daftar
+919,Sekolah,Laki-laki,2017-06-21,DKI Jakarta,hadir
+922,Sekolah,Laki-laki,2013-12-28,Maluku,hadir
+925,Sekolah,Laki-laki,2025-06-29,Papua,selesai
+927,Sekolah,Perempuan,2025-02-28,Sumatera Selatan,pelayanan
+928,Sekolah,Laki-laki,2023-12-20,Bali,daftar
+929,Sekolah,Laki-laki,2024-10-09,Kalimantan Barat,hadir
+930,Sekolah,Laki-laki,2021-07-30,Maluku Utara,hadir
+932,Sekolah,Perempuan,2022-05-08,Banten,pelayanan
+933,Sekolah,Laki-laki,2023-11-14,Lampung,daftar
+935,Sekolah,Laki-laki,2020-12-06,Nusa Tenggara Timur,hadir
+936,Sekolah,Perempuan,2023-04-27,Kalimantan Timur,daftar
+938,Sekolah,Perempuan,2024-01-17,Maluku,daftar
+939,Sekolah,Perempuan,2015-01-29,Maluku Utara,pelayanan
+940,Sekolah,Laki-laki,2022-05-28,Sulawesi Selatan,hadir
+942,Sekolah,Laki-laki,2016-05-15,Papua,hadir
+944,Sekolah,Laki-laki,2022-11-05,Sulawesi Barat,pelayanan
+945,Sekolah,Perempuan,2025-02-28,Jambi,hadir
+946,Sekolah,Perempuan,2013-05-20,Papua Barat Daya,selesai
+947,Sekolah,Perempuan,2025-08-23,Papua Selatan,pelayanan
+953,Sekolah,Laki-laki,2018-01-09,Jawa Tengah,daftar
+954,Sekolah,Laki-laki,2008-12-05,Papua Barat,daftar
+955,Sekolah,Perempuan,2009-04-19,Banten,hadir
+957,Sekolah,Laki-laki,2008-11-26,DKI Jakarta,daftar
+960,Sekolah,Laki-laki,2021-04-01,Kalimantan Timur,hadir
+961,Sekolah,Perempuan,2016-04-23,Sumatera Selatan,pelayanan
+964,Sekolah,Perempuan,2014-07-03,Maluku Utara,pelayanan
+965,Sekolah,Laki-laki,2013-07-02,Lampung,selesai
+970,Sekolah,Laki-laki,2019-02-01,Jawa Tengah,pelayanan
+971,Sekolah,Laki-laki,2013-04-30,Riau,selesai
+972,Sekolah,Laki-laki,2010-03-31,Riau,daftar
+974,Sekolah,Perempuan,2024-02-27,Maluku Utara,pelayanan
+979,Sekolah,Laki-laki,2025-09-21,Jawa Timur,selesai
+982,Sekolah,Laki-laki,2017-04-30,Papua Barat,hadir
+983,Sekolah,Laki-laki,2025-04-18,Kalimantan Barat,pelayanan
+984,Sekolah,Perempuan,2018-03-02,Jambi,selesai
+989,Sekolah,Laki-laki,2020-09-09,Kepulauan Bangka Belitung,daftar
+990,Sekolah,Perempuan,2023-04-17,Kalimantan Timur,hadir
+992,Sekolah,Perempuan,2013-08-14,Kalimantan Utara,selesai
+994,Sekolah,Laki-laki,2022-12-20,Papua Tengah,pelayanan
+995,Sekolah,Perempuan,2019-11-16,Papua Selatan,hadir
+999,Sekolah,Perempuan,2023-10-25,Sumatera Barat,daftar
+1000,Sekolah,Perempuan,2008-04-11,Maluku Utara,selesai
+1001,Sekolah,Laki-laki,2023-02-21,Lampung,hadir
+1002,Sekolah,Laki-laki,2023-11-03,Daerah Istimewa Yogyakarta,selesai
+1004,Sekolah,Perempuan,2020-02-11,Lampung,daftar
+1008,Sekolah,Laki-laki,2024-04-07,Lampung,daftar
+1009,Sekolah,Perempuan,2017-11-07,Jawa Barat,daftar
+1010,Sekolah,Perempuan,2021-12-01,Sumatera Barat,hadir
+1016,Sekolah,Laki-laki,2019-02-24,Kalimantan Tengah,hadir
+1026,Sekolah,Perempuan,2022-04-10,Gorontalo,daftar
+1027,Sekolah,Laki-laki,2024-10-26,Lampung,hadir
+1028,Sekolah,Laki-laki,2025-07-31,Kepulauan Bangka Belitung,selesai
+1029,Sekolah,Laki-laki,2015-12-26,Papua Barat Daya,hadir
+1032,Sekolah,Laki-laki,2025-01-30,Papua,pelayanan
+1033,Sekolah,Laki-laki,2024-10-05,Maluku Utara,selesai
+1035,Sekolah,Laki-laki,2024-11-07,Kepulauan Bangka Belitung,pelayanan
+1036,Sekolah,Laki-laki,2010-11-10,Nusa Tenggara Timur,hadir
+1038,Sekolah,Laki-laki,2025-02-21,DKI Jakarta,hadir
+1043,Sekolah,Laki-laki,2023-04-11,Papua Barat Daya,pelayanan
+1046,Sekolah,Laki-laki,2011-07-18,Kalimantan Utara,pelayanan
+1049,Sekolah,Laki-laki,2025-08-11,Kalimantan Selatan,daftar
+1050,Sekolah,Laki-laki,2019-02-08,Riau,daftar
+1051,Sekolah,Laki-laki,2013-09-08,Sulawesi Selatan,daftar
+1052,Sekolah,Laki-laki,2025-09-23,Maluku Utara,selesai
+1054,Sekolah,Laki-laki,2011-02-05,Papua Pegunungan,pelayanan
+1056,Sekolah,Perempuan,2013-05-11,Papua Tengah,hadir
+1057,Sekolah,Perempuan,2021-11-11,Sumatera Utara,hadir
+1058,Sekolah,Laki-laki,2025-04-09,Sumatera Selatan,selesai
+1060,Sekolah,Perempuan,2021-11-14,Sumatera Utara,hadir
+1061,Sekolah,Perempuan,2022-10-22,Papua Pegunungan,selesai
+1062,Sekolah,Laki-laki,2016-02-14,Papua Tengah,hadir
+1063,Sekolah,Laki-laki,2016-09-01,Kepulauan Bangka Belitung,hadir
+1065,Sekolah,Perempuan,2024-05-09,DKI Jakarta,hadir
+1067,Sekolah,Laki-laki,2021-11-07,Sumatera Utara,hadir
+1070,Sekolah,Perempuan,2018-06-03,Papua Barat,selesai
+1072,Sekolah,Perempuan,2024-12-20,Kalimantan Utara,pelayanan
+1075,Sekolah,Perempuan,2011-02-07,Kalimantan Utara,pelayanan
+1076,Sekolah,Laki-laki,2018-09-18,Aceh,selesai
+1077,Sekolah,Perempuan,2024-11-29,Banten,selesai
+1078,Sekolah,Perempuan,2020-05-19,Maluku Utara,pelayanan
+1080,Sekolah,Perempuan,2015-09-28,Maluku Utara,hadir
+1083,Sekolah,Laki-laki,2024-12-21,Maluku,daftar
+1084,Sekolah,Perempuan,2025-03-12,Papua,pelayanan
+1089,Sekolah,Laki-laki,2014-09-03,Papua Tengah,daftar
+1092,Sekolah,Laki-laki,2020-09-25,Kalimantan Timur,hadir
+1093,Sekolah,Perempuan,2012-08-28,Kepulauan Bangka Belitung,pelayanan
+1094,Sekolah,Laki-laki,2024-03-27,Maluku,daftar
+1099,Sekolah,Perempuan,2023-04-05,Lampung,daftar
+1100,Sekolah,Laki-laki,2017-12-22,Sulawesi Tenggara,daftar
+1104,Sekolah,Laki-laki,2020-11-04,Kalimantan Selatan,hadir
+1105,Sekolah,Perempuan,2012-09-28,Nusa Tenggara Timur,pelayanan
+1107,Sekolah,Perempuan,2024-07-24,Sulawesi Tenggara,selesai
+1108,Sekolah,Laki-laki,2023-07-11,Kalimantan Timur,hadir
+1110,Sekolah,Laki-laki,2015-02-06,Papua,pelayanan
+1113,Sekolah,Laki-laki,2018-09-06,Nusa Tenggara Barat,selesai
+1114,Sekolah,Laki-laki,2025-04-20,Kalimantan Tengah,hadir
+1118,Sekolah,Perempuan,2025-09-29,Bengkulu,daftar
+1121,Sekolah,Perempuan,2024-08-26,Papua Tengah,selesai
+1122,Sekolah,Laki-laki,2023-05-03,Papua Barat Daya,daftar
+1123,Sekolah,Perempuan,2016-04-21,Sulawesi Barat,pelayanan
+1124,Sekolah,Laki-laki,2022-04-03,Gorontalo,pelayanan
+1129,Sekolah,Laki-laki,2025-07-21,Jawa Tengah,daftar
+1132,Sekolah,Perempuan,2022-09-22,Sumatera Utara,pelayanan
+1133,Sekolah,Laki-laki,2025-02-04,Papua,selesai
+1134,Sekolah,Laki-laki,2024-11-29,Aceh,hadir
+1136,Sekolah,Laki-laki,2014-02-02,Papua Tengah,daftar
+1137,Sekolah,Laki-laki,2021-05-01,Sulawesi Selatan,selesai
+1138,Sekolah,Perempuan,2013-03-07,Kepulauan Riau,daftar
+1140,Sekolah,Perempuan,2025-07-23,Sumatera Barat,daftar
+1141,Sekolah,Perempuan,2009-10-22,Bali,selesai
+1144,Sekolah,Perempuan,2023-09-28,Banten,selesai
+1146,Sekolah,Laki-laki,2022-02-25,Sulawesi Tenggara,hadir
+1147,Sekolah,Laki-laki,2023-12-06,Sulawesi Selatan,hadir
+1149,Sekolah,Perempuan,2024-09-02,Bengkulu,hadir
+1150,Sekolah,Perempuan,2022-05-15,Kalimantan Tengah,selesai
+1153,Sekolah,Laki-laki,2023-09-17,Papua,daftar
+1154,Sekolah,Laki-laki,2022-09-28,Sumatera Selatan,pelayanan
+1155,Sekolah,Laki-laki,2025-01-11,Sulawesi Tenggara,selesai
+1159,Sekolah,Laki-laki,2016-03-10,Bengkulu,pelayanan
+1162,Sekolah,Perempuan,2018-06-30,Papua Barat,selesai
+1163,Sekolah,Perempuan,2025-11-06,Maluku,hadir
+1166,Sekolah,Laki-laki,2018-07-03,Papua,daftar
+1167,Sekolah,Laki-laki,2022-10-17,Kalimantan Selatan,selesai
+1170,Sekolah,Laki-laki,2023-01-07,Papua,pelayanan
+1171,Sekolah,Laki-laki,2020-10-27,Sumatera Barat,hadir
+1173,Sekolah,Laki-laki,2024-08-14,Nusa Tenggara Barat,selesai
+1174,Sekolah,Perempuan,2023-01-07,Sulawesi Barat,pelayanan
+1175,Sekolah,Laki-laki,2025-08-16,Maluku,daftar
+1178,Sekolah,Perempuan,2025-07-31,Sumatera Selatan,daftar
+1180,Sekolah,Laki-laki,2020-06-04,DKI Jakarta,hadir
+1181,Sekolah,Perempuan,2021-05-02,Maluku Utara,hadir
+1182,Sekolah,Laki-laki,2013-04-27,Kalimantan Timur,pelayanan
+1185,Sekolah,Perempuan,2014-06-09,Maluku,pelayanan
+1186,Sekolah,Laki-laki,2011-04-11,Bali,daftar
+1187,Sekolah,Laki-laki,2021-09-28,Papua Pegunungan,selesai
+1188,Sekolah,Laki-laki,2022-02-10,Aceh,pelayanan
+1189,Sekolah,Perempuan,2015-11-08,Nusa Tenggara Timur,pelayanan
+1190,Sekolah,Laki-laki,2024-05-08,Papua,hadir
+1194,Sekolah,Perempuan,2025-10-24,Sulawesi Tengah,selesai
+1196,Sekolah,Perempuan,2019-10-27,Sulawesi Tenggara,selesai
+1197,Sekolah,Laki-laki,2022-07-05,Sulawesi Tenggara,pelayanan
+1198,Sekolah,Perempuan,2024-09-22,Papua Tengah,selesai
+1200,Sekolah,Laki-laki,2013-12-02,Papua Tengah,selesai
+1201,Sekolah,Laki-laki,2023-12-01,Sumatera Utara,hadir
+1202,Sekolah,Perempuan,2025-07-18,Sumatera Barat,pelayanan
+1204,Sekolah,Laki-laki,2025-08-25,Papua Barat Daya,hadir
+1205,Sekolah,Perempuan,2025-02-19,Maluku Utara,selesai
+1206,Sekolah,Perempuan,2022-02-04,Sulawesi Tenggara,daftar
+1208,Sekolah,Laki-laki,2020-07-11,Papua Barat Daya,selesai
+1209,Sekolah,Perempuan,2022-05-18,Nusa Tenggara Barat,daftar
+1210,Sekolah,Laki-laki,2021-04-29,Riau,daftar
+1214,Sekolah,Perempuan,2021-11-24,Sumatera Barat,hadir
+1215,Sekolah,Perempuan,2025-02-28,Sumatera Utara,hadir
+1216,Sekolah,Laki-laki,2024-05-20,Kepulauan Riau,daftar
+1217,Sekolah,Perempuan,2024-12-22,Maluku Utara,daftar
+1218,Sekolah,Perempuan,2011-12-16,Nusa Tenggara Timur,pelayanan
+1220,Sekolah,Laki-laki,2024-11-29,Sulawesi Utara,pelayanan
+1221,Sekolah,Laki-laki,2020-10-02,Kalimantan Utara,pelayanan
+1224,Sekolah,Laki-laki,2016-10-02,Sulawesi Selatan,hadir
+1225,Sekolah,Perempuan,2010-01-30,Papua Tengah,selesai
+1226,Sekolah,Perempuan,2024-11-03,Jambi,selesai
+1227,Sekolah,Laki-laki,2024-03-11,Sumatera Utara,selesai
+1228,Sekolah,Perempuan,2024-11-10,Jawa Barat,hadir
+1231,Sekolah,Laki-laki,2024-02-05,Nusa Tenggara Barat,daftar
+1233,Sekolah,Perempuan,2025-01-27,Papua Tengah,pelayanan
+1234,Sekolah,Laki-laki,2025-08-03,Papua Tengah,daftar
+1237,Sekolah,Perempuan,2017-05-11,Kepulauan Riau,selesai
+1238,Sekolah,Perempuan,2025-03-15,Bali,pelayanan
+1239,Sekolah,Laki-laki,2025-10-28,Maluku Utara,selesai
+1240,Sekolah,Laki-laki,2023-05-06,Jambi,pelayanan
+1241,Sekolah,Laki-laki,2006-11-23,Nusa Tenggara Timur,daftar
+1242,Sekolah,Perempuan,2025-11-10,Sumatera Utara,hadir
+1243,Sekolah,Laki-laki,2005-10-03,Sulawesi Tengah,pelayanan
+1245,Sekolah,Perempuan,2020-06-22,Kalimantan Timur,pelayanan
+1246,Sekolah,Perempuan,2024-08-12,Papua Pegunungan,selesai
+1249,Sekolah,Laki-laki,2025-10-09,Kalimantan Selatan,selesai
+1251,Sekolah,Laki-laki,2018-01-17,Kalimantan Utara,pelayanan
+1252,Sekolah,Laki-laki,2008-07-07,Nusa Tenggara Timur,pelayanan
+1255,Sekolah,Laki-laki,2025-07-22,Papua Tengah,pelayanan
+1256,Sekolah,Laki-laki,2025-06-15,Kepulauan Riau,hadir
+1260,Sekolah,Laki-laki,2013-01-30,Papua,hadir
+1261,Sekolah,Laki-laki,2020-11-24,Sumatera Selatan,hadir
+1267,Sekolah,Laki-laki,2023-06-02,Kalimantan Timur,selesai
+1268,Sekolah,Laki-laki,2009-01-01,DKI Jakarta,daftar
+1270,Sekolah,Laki-laki,2023-10-21,Maluku Utara,pelayanan
+1271,Sekolah,Laki-laki,2010-08-04,Sulawesi Barat,hadir
+1272,Sekolah,Laki-laki,2024-05-23,Kalimantan Selatan,selesai
+1273,Sekolah,Perempuan,2023-04-23,Kalimantan Tengah,hadir
+1274,Sekolah,Perempuan,2014-04-16,Jawa Tengah,pelayanan
+1275,Sekolah,Laki-laki,2019-06-20,Kalimantan Barat,hadir
+1277,Sekolah,Perempuan,2023-02-05,Riau,selesai
+1278,Sekolah,Perempuan,2017-10-23,Banten,selesai
+1279,Sekolah,Laki-laki,2024-08-24,Sulawesi Barat,daftar
+1280,Sekolah,Laki-laki,2023-04-27,Papua Barat Daya,hadir
+1283,Sekolah,Perempuan,2025-07-24,Jawa Timur,daftar
+1284,Sekolah,Laki-laki,2022-06-20,Kalimantan Timur,daftar
+1286,Sekolah,Laki-laki,2018-02-11,Sulawesi Tenggara,selesai
+1287,Sekolah,Perempuan,2009-01-13,Daerah Istimewa Yogyakarta,hadir
+1289,Sekolah,Perempuan,2022-04-06,Aceh,selesai
+1290,Sekolah,Laki-laki,2018-12-20,Nusa Tenggara Barat,pelayanan
+1292,Sekolah,Laki-laki,2021-07-24,Bengkulu,hadir
+1294,Sekolah,Perempuan,2023-11-22,Kalimantan Tengah,hadir
+1296,Sekolah,Perempuan,2024-05-03,Jawa Tengah,pelayanan
+1297,Sekolah,Laki-laki,2023-09-17,Papua Barat Daya,selesai
+1303,Sekolah,Laki-laki,2007-04-29,Kalimantan Utara,daftar
+1304,Sekolah,Laki-laki,2024-08-04,Papua Tengah,selesai
+1306,Sekolah,Laki-laki,2025-03-24,Sulawesi Tengah,hadir
+1307,Sekolah,Laki-laki,2007-07-31,Lampung,daftar
+1309,Sekolah,Perempuan,2025-11-13,Banten,daftar
+1310,Sekolah,Laki-laki,2023-02-18,Daerah Istimewa Yogyakarta,selesai
+1313,Sekolah,Perempuan,2017-06-22,Sumatera Utara,pelayanan
+1315,Sekolah,Laki-laki,2024-01-13,Jawa Barat,selesai
+1320,Sekolah,Perempuan,2023-01-20,Kepulauan Riau,pelayanan
+1323,Sekolah,Perempuan,2024-01-08,Papua Tengah,hadir
+1324,Sekolah,Laki-laki,2018-10-13,Sulawesi Utara,daftar
+1328,Sekolah,Perempuan,2023-04-26,Papua Tengah,selesai
+1329,Sekolah,Laki-laki,2024-07-20,Papua Barat Daya,hadir
+1330,Sekolah,Perempuan,2023-02-21,Jawa Barat,daftar
+1333,Sekolah,Laki-laki,2024-08-06,Nusa Tenggara Timur,pelayanan
+1334,Sekolah,Laki-laki,2025-04-30,Kalimantan Utara,hadir
+1335,Sekolah,Laki-laki,2007-01-30,Kalimantan Barat,daftar
+1337,Sekolah,Laki-laki,2013-08-27,Kepulauan Riau,pelayanan
+1339,Sekolah,Perempuan,2020-09-19,Banten,selesai
+1341,Sekolah,Perempuan,2007-05-29,Daerah Istimewa Yogyakarta,selesai
+1342,Sekolah,Laki-laki,2025-09-06,Nusa Tenggara Timur,selesai
+1347,Sekolah,Perempuan,2020-03-06,Gorontalo,selesai
+1348,Sekolah,Perempuan,2019-12-02,Jawa Timur,selesai
+1351,Sekolah,Perempuan,2010-12-18,Jawa Timur,selesai
+1353,Sekolah,Laki-laki,2022-02-09,Jambi,daftar
+1354,Sekolah,Laki-laki,2020-06-12,Nusa Tenggara Timur,pelayanan
+1356,Sekolah,Laki-laki,2024-03-24,Kalimantan Timur,hadir
+1359,Sekolah,Perempuan,2024-09-30,DKI Jakarta,hadir
+1360,Sekolah,Perempuan,2023-04-05,Maluku Utara,selesai
+1361,Sekolah,Laki-laki,2020-09-13,Papua Barat,selesai
+1363,Sekolah,Perempuan,2021-08-25,Riau,selesai
+1366,Sekolah,Laki-laki,2019-10-19,Nusa Tenggara Barat,daftar
+1369,Sekolah,Laki-laki,2024-07-25,Kalimantan Barat,pelayanan
+1372,Sekolah,Laki-laki,2021-06-18,Nusa Tenggara Timur,daftar
+1373,Sekolah,Laki-laki,2021-08-21,Gorontalo,daftar
+1375,Sekolah,Laki-laki,2015-12-30,Kalimantan Barat,daftar
+1376,Sekolah,Perempuan,2024-11-18,Maluku Utara,pelayanan
+1378,Sekolah,Perempuan,2023-08-15,Kepulauan Bangka Belitung,hadir
+1381,Sekolah,Perempuan,2024-02-14,Papua Barat,daftar
+1382,Sekolah,Laki-laki,2023-09-24,Papua Pegunungan,selesai
+1385,Sekolah,Perempuan,2023-08-15,Kalimantan Timur,hadir
+1386,Sekolah,Laki-laki,2023-07-28,Bengkulu,selesai
+1387,Sekolah,Perempuan,2015-03-05,Kepulauan Bangka Belitung,selesai
+1389,Sekolah,Laki-laki,2018-01-03,Kalimantan Timur,selesai
+1390,Sekolah,Perempuan,2022-10-26,Jawa Timur,selesai
+1392,Sekolah,Perempuan,2023-06-14,Kalimantan Utara,hadir
+1393,Sekolah,Perempuan,2019-09-28,Sulawesi Utara,hadir
+1394,Sekolah,Perempuan,2016-02-09,Kalimantan Selatan,pelayanan
+1399,Sekolah,Perempuan,2024-09-15,Kalimantan Barat,hadir
+1401,Sekolah,Laki-laki,2022-06-07,Kalimantan Timur,selesai
+1402,Sekolah,Laki-laki,2025-09-02,Kalimantan Utara,pelayanan
+1403,Sekolah,Perempuan,2024-06-28,Lampung,hadir
+1404,Sekolah,Perempuan,2016-06-20,Kalimantan Timur,daftar
+1405,Sekolah,Laki-laki,2018-02-13,Papua Barat,selesai
+1409,Sekolah,Laki-laki,2014-04-10,Sumatera Utara,selesai
+1410,Sekolah,Laki-laki,2019-06-18,Sulawesi Tenggara,selesai
+1414,Sekolah,Laki-laki,2025-02-04,Bali,selesai
+1415,Sekolah,Laki-laki,2018-03-24,Papua Pegunungan,hadir
+1416,Sekolah,Perempuan,2014-02-02,Papua Tengah,selesai
+1420,Sekolah,Laki-laki,2023-07-29,Bengkulu,pelayanan
+1421,Sekolah,Laki-laki,2010-02-01,Papua Barat Daya,pelayanan
+1425,Sekolah,Laki-laki,2022-08-10,Gorontalo,daftar
+1426,Sekolah,Laki-laki,2025-06-26,Papua Barat,hadir
+1427,Sekolah,Perempuan,2017-10-02,Kalimantan Utara,selesai
+1429,Sekolah,Laki-laki,2025-10-18,Papua Barat,daftar
+1430,Sekolah,Laki-laki,2025-01-01,Maluku Utara,hadir
+1432,Sekolah,Perempuan,2024-07-12,Kalimantan Timur,selesai
+1434,Sekolah,Perempuan,2020-08-21,Sulawesi Selatan,selesai
+1437,Sekolah,Laki-laki,2024-07-20,Maluku Utara,selesai
+1440,Sekolah,Perempuan,2025-01-21,Nusa Tenggara Timur,pelayanan
+1443,Sekolah,Laki-laki,2017-10-26,Papua Tengah,selesai
+1445,Sekolah,Laki-laki,2025-11-15,Maluku Utara,selesai
+1448,Sekolah,Perempuan,2021-09-18,Kalimantan Tengah,pelayanan
+1449,Sekolah,Perempuan,2024-05-25,Sumatera Selatan,hadir
+1450,Sekolah,Perempuan,2022-10-19,Kalimantan Tengah,hadir
+1451,Sekolah,Perempuan,2013-09-18,Jawa Tengah,daftar
+1452,Sekolah,Perempuan,2024-06-06,Daerah Istimewa Yogyakarta,selesai
+1453,Sekolah,Perempuan,2022-09-21,Lampung,daftar
+1454,Sekolah,Laki-laki,2024-03-17,Banten,selesai
+1456,Sekolah,Laki-laki,2022-01-23,Nusa Tenggara Barat,daftar
+1461,Sekolah,Laki-laki,2010-09-14,Bengkulu,selesai
+1463,Sekolah,Perempuan,2021-06-18,Sumatera Utara,daftar
+1464,Sekolah,Laki-laki,2022-08-31,Riau,selesai
+1466,Sekolah,Laki-laki,2013-03-29,Riau,hadir
+1470,Sekolah,Laki-laki,2024-08-22,Jawa Timur,daftar
+1472,Sekolah,Perempuan,2011-03-13,Bengkulu,hadir
+1473,Sekolah,Perempuan,2009-12-24,Bengkulu,selesai
+1475,Sekolah,Perempuan,2024-09-22,Papua,selesai
+1479,Sekolah,Laki-laki,2025-01-31,Bali,hadir
+1480,Sekolah,Perempuan,2019-08-08,DKI Jakarta,hadir
+1481,Sekolah,Laki-laki,2024-04-15,Papua Pegunungan,selesai
+1483,Sekolah,Perempuan,2021-04-02,Maluku,hadir
+1484,Sekolah,Perempuan,2014-06-12,Kalimantan Barat,hadir
+1487,Sekolah,Perempuan,2024-10-08,Jawa Tengah,hadir
+1488,Sekolah,Laki-laki,2025-02-21,Sulawesi Utara,selesai
+1492,Sekolah,Perempuan,2025-06-20,Papua Tengah,selesai
+1495,Sekolah,Perempuan,2025-10-13,Papua,daftar
+1499,Sekolah,Laki-laki,2024-03-26,Bengkulu,selesai
+1504,Sekolah,Laki-laki,2023-11-26,Papua Tengah,pelayanan
+1505,Sekolah,Laki-laki,2010-07-11,Papua Barat Daya,pelayanan
+1506,Sekolah,Laki-laki,2024-10-13,Sulawesi Tenggara,selesai
+1509,Sekolah,Perempuan,2017-03-01,DKI Jakarta,pelayanan
+1512,Sekolah,Perempuan,2025-09-05,Sulawesi Utara,pelayanan
+1515,Sekolah,Perempuan,2025-08-30,Papua Tengah,hadir
+1516,Sekolah,Perempuan,2024-08-13,Sulawesi Tenggara,hadir
+1517,Sekolah,Perempuan,2009-05-01,Maluku,selesai
+1520,Sekolah,Laki-laki,2012-03-11,Sulawesi Selatan,selesai
+1521,Sekolah,Perempuan,2025-03-23,Sulawesi Utara,hadir
+1522,Sekolah,Laki-laki,2018-08-20,Sulawesi Tengah,hadir
+1523,Sekolah,Perempuan,2023-09-26,Papua Selatan,hadir
+1525,Sekolah,Perempuan,2022-03-15,Kalimantan Selatan,selesai
+1526,Sekolah,Laki-laki,2011-03-06,Gorontalo,daftar
+1528,Sekolah,Perempuan,2013-11-09,Sulawesi Barat,pelayanan
+1530,Sekolah,Laki-laki,2024-09-03,Sulawesi Tenggara,selesai
+1532,Sekolah,Perempuan,2023-09-22,Kalimantan Selatan,pelayanan
+1533,Sekolah,Laki-laki,2017-05-13,Maluku Utara,selesai
+1535,Sekolah,Laki-laki,2016-01-24,DKI Jakarta,hadir
+1536,Sekolah,Perempuan,2020-07-05,Sulawesi Barat,daftar
+1539,Sekolah,Perempuan,2016-09-07,Kepulauan Riau,hadir
+1541,Sekolah,Laki-laki,2020-08-23,Kalimantan Timur,daftar
+1542,Sekolah,Perempuan,2022-05-27,Jambi,hadir
+1544,Sekolah,Perempuan,2020-11-21,Riau,pelayanan
+1548,Sekolah,Perempuan,2007-02-27,Kalimantan Utara,hadir
+1551,Sekolah,Laki-laki,2021-04-17,Aceh,pelayanan
+1553,Sekolah,Laki-laki,2024-04-01,Daerah Istimewa Yogyakarta,pelayanan
+1555,Sekolah,Perempuan,2022-02-15,Sulawesi Utara,pelayanan
+1556,Sekolah,Laki-laki,2023-03-24,Aceh,daftar
+1559,Sekolah,Laki-laki,2025-07-25,Kalimantan Tengah,selesai
+1563,Sekolah,Perempuan,2009-04-01,Sumatera Selatan,pelayanan
+1564,Sekolah,Laki-laki,2021-10-06,Kalimantan Utara,selesai
+1565,Sekolah,Laki-laki,2017-12-19,Gorontalo,pelayanan
+1566,Sekolah,Perempuan,2022-08-05,Jawa Timur,pelayanan
+1567,Sekolah,Laki-laki,2024-02-26,Sulawesi Tengah,hadir
+1569,Sekolah,Laki-laki,2020-10-29,Kalimantan Timur,pelayanan
+1572,Sekolah,Laki-laki,2017-08-25,Jawa Timur,daftar
+1573,Sekolah,Perempuan,2025-06-09,Papua Pegunungan,pelayanan
+1574,Sekolah,Laki-laki,2024-06-03,Sumatera Barat,daftar
+1576,Sekolah,Laki-laki,2025-09-22,Papua Barat,selesai
+1578,Sekolah,Perempuan,2024-09-03,Riau,selesai
+1580,Sekolah,Laki-laki,2024-02-26,Maluku Utara,pelayanan
+1581,Sekolah,Laki-laki,2020-12-13,Jambi,daftar
+1584,Sekolah,Laki-laki,2024-10-19,Jawa Timur,hadir
+1585,Sekolah,Perempuan,2014-10-07,Jambi,hadir
+1586,Sekolah,Laki-laki,2018-01-26,Maluku,hadir
+1589,Sekolah,Laki-laki,2015-02-10,Kalimantan Tengah,selesai
+1590,Sekolah,Perempuan,2015-12-31,Bengkulu,pelayanan
+1593,Sekolah,Perempuan,2025-06-28,Maluku Utara,hadir
+1594,Sekolah,Laki-laki,2025-03-24,Kalimantan Selatan,selesai
+1595,Sekolah,Laki-laki,2025-10-30,Papua Barat Daya,selesai
+1598,Sekolah,Laki-laki,2025-10-25,Aceh,hadir
+1599,Sekolah,Perempuan,2023-08-24,Sulawesi Selatan,selesai
+1600,Sekolah,Perempuan,2022-08-05,Kalimantan Barat,pelayanan
+1601,Sekolah,Laki-laki,2011-12-31,Kalimantan Utara,hadir
+1602,Sekolah,Laki-laki,2025-11-13,Sulawesi Tenggara,hadir
+1604,Sekolah,Laki-laki,2021-09-10,Sumatera Selatan,selesai
+1607,Sekolah,Perempuan,2011-09-01,Gorontalo,hadir
+1609,Sekolah,Perempuan,2024-11-05,Papua Selatan,hadir
+1610,Sekolah,Perempuan,2016-02-01,Papua Barat Daya,hadir
+1611,Sekolah,Perempuan,2022-03-25,DKI Jakarta,hadir
+1614,Sekolah,Laki-laki,2014-01-31,Papua Pegunungan,daftar
+1615,Sekolah,Laki-laki,2015-10-24,Kalimantan Utara,pelayanan
+1616,Sekolah,Perempuan,2022-02-28,Kalimantan Selatan,selesai
+1618,Sekolah,Laki-laki,2011-06-17,Nusa Tenggara Timur,hadir
+1621,Sekolah,Perempuan,2015-07-05,Bengkulu,selesai
+1624,Sekolah,Laki-laki,2010-08-01,Papua Selatan,hadir
+1625,Sekolah,Laki-laki,2023-09-17,Kalimantan Timur,hadir
+1626,Sekolah,Laki-laki,2023-01-10,Sumatera Utara,selesai
+1628,Sekolah,Perempuan,2015-04-08,Banten,selesai
+1630,Sekolah,Perempuan,2021-04-12,Bengkulu,selesai
+1631,Sekolah,Laki-laki,2023-04-22,Jambi,daftar
+1632,Sekolah,Laki-laki,2024-03-11,Bengkulu,selesai
+1635,Sekolah,Perempuan,2025-09-23,Bali,selesai
+1638,Sekolah,Laki-laki,2023-02-28,Kalimantan Selatan,selesai
+1641,Sekolah,Perempuan,2025-11-18,Daerah Istimewa Yogyakarta,daftar
+1642,Sekolah,Laki-laki,2021-02-20,Gorontalo,selesai
+1645,Sekolah,Laki-laki,2018-07-16,Kalimantan Selatan,daftar
+1652,Sekolah,Laki-laki,2022-03-20,Kalimantan Selatan,pelayanan
+1654,Sekolah,Laki-laki,2024-11-14,Banten,pelayanan
+1656,Sekolah,Laki-laki,2022-11-08,Kalimantan Utara,hadir
+1657,Sekolah,Perempuan,2012-02-14,Papua Barat Daya,pelayanan
+1658,Sekolah,Laki-laki,2023-07-07,Daerah Istimewa Yogyakarta,daftar
+1659,Sekolah,Laki-laki,2025-08-22,Kalimantan Barat,selesai
+1661,Sekolah,Laki-laki,2014-04-30,Nusa Tenggara Timur,selesai
+1666,Sekolah,Perempuan,2024-01-30,Sulawesi Utara,pelayanan
+1669,Sekolah,Laki-laki,2025-08-31,Bengkulu,pelayanan
+1670,Sekolah,Perempuan,2024-08-10,Jawa Barat,pelayanan
+1675,Sekolah,Laki-laki,2020-12-23,Kalimantan Tengah,selesai
+1676,Sekolah,Perempuan,2020-09-16,Kalimantan Timur,daftar
+1682,Sekolah,Perempuan,2024-12-29,Nusa Tenggara Timur,pelayanan
+1684,Sekolah,Laki-laki,2025-07-12,Sumatera Utara,selesai
+1686,Sekolah,Perempuan,2025-10-04,Riau,pelayanan
+1687,Sekolah,Perempuan,2014-04-23,Kalimantan Utara,pelayanan
+1694,Sekolah,Perempuan,2020-10-09,Kalimantan Tengah,daftar
+1695,Sekolah,Perempuan,2015-08-30,Sulawesi Tengah,pelayanan
+1696,Sekolah,Laki-laki,2024-07-08,Maluku Utara,selesai
+1697,Sekolah,Laki-laki,2024-12-01,Sulawesi Selatan,hadir
+1698,Sekolah,Perempuan,2016-05-24,Sumatera Selatan,hadir
+1701,Sekolah,Laki-laki,2025-06-19,Sulawesi Utara,selesai
+1703,Sekolah,Perempuan,2024-05-25,Kalimantan Timur,selesai
+1704,Sekolah,Laki-laki,2016-03-26,Kepulauan Riau,selesai
+1707,Sekolah,Laki-laki,2019-06-08,Papua Pegunungan,selesai
+1712,Sekolah,Laki-laki,2011-10-11,Kalimantan Timur,selesai
+1713,Sekolah,Laki-laki,2023-03-17,Kalimantan Barat,selesai
+1714,Sekolah,Laki-laki,2025-05-15,Daerah Istimewa Yogyakarta,daftar
+1715,Sekolah,Perempuan,2021-02-16,Kalimantan Utara,pelayanan
+1716,Sekolah,Laki-laki,2024-11-28,Nusa Tenggara Barat,selesai
+1717,Sekolah,Perempuan,2023-03-26,Sulawesi Tenggara,daftar
+1719,Sekolah,Perempuan,2018-12-20,Jawa Timur,daftar
+1720,Sekolah,Laki-laki,2022-03-07,Sulawesi Tengah,daftar
+1722,Sekolah,Laki-laki,2020-05-17,Kalimantan Selatan,hadir
+1723,Sekolah,Perempuan,2022-03-06,Jambi,pelayanan
+1728,Sekolah,Laki-laki,2023-04-29,Papua Tengah,hadir
+1730,Sekolah,Laki-laki,2024-04-23,Kepulauan Riau,selesai
+1731,Sekolah,Perempuan,2020-03-11,Maluku Utara,hadir
+1734,Sekolah,Laki-laki,2025-07-18,Kepulauan Bangka Belitung,pelayanan
+1735,Sekolah,Perempuan,2019-01-10,Jawa Timur,pelayanan
+1736,Sekolah,Laki-laki,2011-09-18,Nusa Tenggara Barat,hadir
+1738,Sekolah,Laki-laki,2019-01-11,Papua Selatan,hadir
+1739,Sekolah,Laki-laki,2025-01-13,Papua Barat Daya,pelayanan
+1740,Sekolah,Laki-laki,2020-08-25,Nusa Tenggara Barat,hadir
+1741,Sekolah,Laki-laki,2022-04-19,Nusa Tenggara Timur,selesai
+1747,Sekolah,Perempuan,2020-03-24,Bengkulu,hadir
+1749,Sekolah,Laki-laki,2020-11-03,Papua Tengah,selesai
+1752,Sekolah,Laki-laki,2024-01-20,Maluku Utara,selesai
+1753,Sekolah,Laki-laki,2021-02-02,Jawa Timur,selesai
+1754,Sekolah,Laki-laki,2025-03-24,Jawa Tengah,selesai
+1755,Sekolah,Perempuan,2022-08-11,Jawa Tengah,daftar
+1756,Sekolah,Perempuan,2017-11-06,Sulawesi Tengah,daftar
+1757,Sekolah,Laki-laki,2016-11-07,Jawa Tengah,hadir
+1759,Sekolah,Perempuan,2024-02-09,Sulawesi Utara,selesai
+1760,Sekolah,Perempuan,2019-08-25,Sulawesi Utara,selesai
+1761,Sekolah,Laki-laki,2010-01-20,Sulawesi Tengah,pelayanan
+1762,Sekolah,Perempuan,2023-02-11,Gorontalo,pelayanan
+1763,Sekolah,Laki-laki,2021-09-18,Jawa Timur,selesai
+1764,Sekolah,Perempuan,2025-08-13,Sulawesi Selatan,pelayanan
+1765,Sekolah,Laki-laki,2010-10-08,Papua,selesai
+1766,Sekolah,Perempuan,2014-07-16,Bengkulu,selesai
+1772,Sekolah,Laki-laki,2021-11-02,Kalimantan Timur,selesai
+1774,Sekolah,Perempuan,2025-04-23,Bengkulu,selesai
+1775,Sekolah,Perempuan,2018-07-02,Banten,selesai
+1776,Sekolah,Laki-laki,2024-10-24,Sulawesi Barat,pelayanan
+1779,Sekolah,Laki-laki,2024-03-07,Banten,hadir
+1780,Sekolah,Perempuan,2008-02-24,Sulawesi Utara,pelayanan
+1781,Sekolah,Laki-laki,2023-09-24,Kalimantan Selatan,daftar
+1782,Sekolah,Laki-laki,2022-07-08,Jawa Timur,pelayanan
+1783,Sekolah,Laki-laki,2025-11-20,Kalimantan Selatan,pelayanan
+1787,Sekolah,Perempuan,2010-05-02,Maluku Utara,daftar
+1788,Sekolah,Perempuan,2024-07-02,Sumatera Utara,pelayanan
+1789,Sekolah,Laki-laki,2018-06-15,Kalimantan Tengah,selesai
+1790,Sekolah,Laki-laki,2023-07-28,Maluku,pelayanan
+1791,Sekolah,Perempuan,2023-08-31,Kalimantan Selatan,selesai
+1796,Sekolah,Perempuan,2021-09-28,Jawa Timur,selesai
+1799,Sekolah,Perempuan,2022-12-04,Riau,hadir
+1800,Sekolah,Perempuan,2013-11-05,Gorontalo,daftar
+1801,Sekolah,Laki-laki,2018-08-02,DKI Jakarta,hadir
+1803,Sekolah,Laki-laki,2019-04-19,Papua,daftar
+1804,Sekolah,Perempuan,2020-03-30,DKI Jakarta,pelayanan
+1805,Sekolah,Perempuan,2022-09-14,Nusa Tenggara Timur,hadir
+1806,Sekolah,Perempuan,2018-04-08,Kalimantan Timur,daftar
+1808,Sekolah,Perempuan,2025-04-07,Kalimantan Tengah,pelayanan
+1813,Sekolah,Perempuan,2015-04-14,DKI Jakarta,pelayanan
+1817,Sekolah,Laki-laki,2025-08-24,DKI Jakarta,selesai
+1819,Sekolah,Perempuan,2024-02-27,Kalimantan Barat,hadir
+1824,Sekolah,Laki-laki,2021-04-01,Riau,daftar
+1826,Sekolah,Perempuan,2017-02-10,Jawa Timur,daftar
+1827,Sekolah,Laki-laki,2023-01-27,DKI Jakarta,selesai
+1828,Sekolah,Perempuan,2025-06-17,Papua Selatan,hadir
+1829,Sekolah,Laki-laki,2025-03-09,Jawa Timur,hadir
+1830,Sekolah,Perempuan,2019-01-19,Sumatera Barat,pelayanan
+1834,Sekolah,Laki-laki,2009-05-20,Jawa Barat,pelayanan
+1837,Sekolah,Perempuan,2021-09-23,Kalimantan Utara,hadir
+1838,Sekolah,Laki-laki,2018-06-22,Maluku Utara,hadir
+1840,Sekolah,Laki-laki,2008-04-15,DKI Jakarta,daftar
+1842,Sekolah,Perempuan,2017-05-01,Maluku Utara,pelayanan
+1843,Sekolah,Laki-laki,2014-03-06,Riau,hadir
+1847,Sekolah,Laki-laki,2024-07-24,Aceh,hadir
+1849,Sekolah,Laki-laki,2025-05-06,Papua,selesai
+1852,Sekolah,Perempuan,2019-09-19,Nusa Tenggara Timur,selesai
+1854,Sekolah,Laki-laki,2025-01-29,DKI Jakarta,daftar
+1855,Sekolah,Laki-laki,2013-09-14,Nusa Tenggara Timur,selesai
+1857,Sekolah,Laki-laki,2012-11-25,Kalimantan Utara,hadir
+1858,Sekolah,Perempuan,2021-08-28,Aceh,hadir
+1859,Sekolah,Laki-laki,2019-12-26,Banten,hadir
+1860,Sekolah,Perempuan,2024-04-19,Kalimantan Tengah,selesai
+1863,Sekolah,Laki-laki,2015-05-02,Kalimantan Utara,daftar
+1866,Sekolah,Perempuan,2024-07-21,DKI Jakarta,selesai
+1867,Sekolah,Perempuan,2021-12-13,Papua Pegunungan,hadir
+1870,Sekolah,Laki-laki,2020-01-04,Nusa Tenggara Timur,pelayanan
+1872,Sekolah,Perempuan,2014-06-19,Sumatera Utara,hadir
+1873,Sekolah,Perempuan,2011-05-09,Sulawesi Tenggara,selesai
+1877,Sekolah,Laki-laki,2025-09-06,Gorontalo,hadir
+1879,Sekolah,Laki-laki,2023-05-02,Kalimantan Timur,pelayanan
+1880,Sekolah,Laki-laki,2022-01-08,Jawa Tengah,selesai
+1881,Sekolah,Perempuan,2021-05-15,Sulawesi Utara,hadir
+1883,Sekolah,Laki-laki,2015-04-11,Kepulauan Riau,selesai
+1887,Sekolah,Perempuan,2025-06-01,Papua Tengah,selesai
+1889,Sekolah,Perempuan,2022-01-17,Kalimantan Timur,selesai
+1890,Sekolah,Perempuan,2023-01-19,Nusa Tenggara Barat,daftar
+1892,Sekolah,Perempuan,2023-09-20,Jawa Barat,pelayanan
+1894,Sekolah,Laki-laki,2025-08-04,Nusa Tenggara Timur,hadir
+1895,Sekolah,Laki-laki,2024-11-04,Lampung,daftar
+1896,Sekolah,Perempuan,2024-01-30,Aceh,daftar
+1898,Sekolah,Laki-laki,2010-04-30,Maluku,daftar
+1899,Sekolah,Perempuan,2016-01-13,Sulawesi Utara,daftar
+1900,Sekolah,Perempuan,2013-04-03,Maluku Utara,hadir
+1901,Sekolah,Perempuan,2018-03-01,Sulawesi Tengah,daftar
+1902,Sekolah,Perempuan,2024-07-03,Maluku,daftar
+1903,Sekolah,Perempuan,2009-06-19,Kalimantan Tengah,pelayanan
+1905,Sekolah,Laki-laki,2024-12-23,Jawa Tengah,selesai
+1906,Sekolah,Perempuan,2022-06-08,Sumatera Selatan,daftar
+1907,Sekolah,Perempuan,2025-01-05,Nusa Tenggara Barat,selesai
+1910,Sekolah,Laki-laki,2025-06-20,Aceh,hadir
+1917,Sekolah,Laki-laki,2016-05-12,Gorontalo,hadir
+1921,Sekolah,Laki-laki,2013-05-06,Papua Barat Daya,pelayanan
+1924,Sekolah,Laki-laki,2022-12-29,Jawa Tengah,daftar
+1926,Sekolah,Laki-laki,2022-08-07,Banten,selesai
+1928,Sekolah,Perempuan,2025-10-01,Papua Selatan,daftar
+1929,Sekolah,Laki-laki,2025-03-24,Papua Pegunungan,pelayanan
+1931,Sekolah,Laki-laki,2024-08-27,Jawa Tengah,daftar
+1932,Sekolah,Laki-laki,2008-10-15,Bengkulu,pelayanan
+1933,Sekolah,Perempuan,2013-07-16,Gorontalo,pelayanan
+1934,Sekolah,Laki-laki,2019-08-13,Sulawesi Utara,daftar
+1935,Sekolah,Perempuan,2023-09-06,Sulawesi Tengah,pelayanan
+1936,Sekolah,Perempuan,2020-07-12,Papua,selesai
+1940,Sekolah,Perempuan,2011-06-29,Papua Tengah,selesai
+1941,Sekolah,Perempuan,2020-04-05,Sulawesi Tengah,selesai
+1942,Sekolah,Perempuan,2017-01-03,Bali,pelayanan

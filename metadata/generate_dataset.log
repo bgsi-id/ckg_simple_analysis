@@ -1,0 +1,19 @@
+2025-11-20T07:38:49.155512167Z [info   ] Compiling dataset definition from analysis/dataset_definition.py
+2025-11-20T07:38:49.161677459Z assertion failed [segment_file_offset == 0]: first load segment not at file offset 0
+2025-11-20T07:38:49.161713917Z (ElfMapper.cpp:399 map_elf)
+2025-11-20T07:38:50.572847459Z  [info   ] Generating dummy dataset
+2025-11-20T07:38:50.573941876Z [info   ] Using next generation dummy data generation
+2025-11-20T07:38:50.574154876Z [info   ] Attempting to generate 1000 matching patients (random seed: BwRV3spP, timeout: 60s)
+2025-11-20T07:38:50.574160126Z [info   ] Use `dataset.configure_dummy_data(population_size=N)` to change number of patients generated
+
+
+job_definition_id: cokm2s2bya4h5rcz
+job_definition_request_id: d02250aa73
+docker_image_id: sha256:378899f465784b222719978bb022b51c5e385bfbf257d02d5e15618e09ff5de9
+exit_code: 0
+created_at: 1763624324
+completed_at: 1763624332
+status_message: Completed successfully
+
+outputs:
+  output/dataset.csv  - highly_sensitive

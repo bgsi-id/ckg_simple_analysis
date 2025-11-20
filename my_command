@@ -1,0 +1,2 @@
+just add-job https://github.com/abdulfaqihalm/test-age-distribution run_all --backend dwh
+
